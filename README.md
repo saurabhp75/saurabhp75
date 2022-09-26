@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Prakash</h1>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://saurabhp75.github.io/portfolio/](https://saurabhp75.github.io/portfolio/)
+- 👨‍💻 You can also check out my portfolio at [https://saurabhp.vercel.app/projects](https://saurabhp.vercel.app/projects)
 
 - 📫 You can reach me @ **saurabhp75@gmail.com**
 
