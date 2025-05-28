@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi I am Saurabh, currently working on stealth startup.<br>
+Hi, I am Saurabh, currently working on stealth startup.<br>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
