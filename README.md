@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I am Saurabh, currently working on stealth startup.<br>
-### ✍️ Dev Quote of the day
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
