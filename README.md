@@ -15,7 +15,6 @@ Hi, I am Saurabh, currently working on stealth startup.<br>
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saurabhp75&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=saurabhp75&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhp75&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saurabhp75&theme=radical&no-frame=false&no-bg=true&margin-w=4)
