@@ -1,3 +1,19 @@
-<div align=center>
-  <img align=center src=https://metrics.lecoq.io/saurabhp75?template=terminal&isocalendar=1&languages=1&achievements=1&introduction=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FCalcutta />
+# Hello, I'm Saurabh! 👋
+
+I'm a developer passionate about open-source, automation, and building tools that make life easier.
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img alt="GitHub Metrics for saurabhp75" src="https://metrics.lecoq.io/saurabhp75?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=true&languages.limit=8&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&config.timezone=Asia%2FCalcutta" />
 </div>
+
+## 🛠️ Tech Stack
+1. **Languages:** Python, JavaScript, Java
+2. **Frameworks:** React, Node.js
+3. **Tools:** Docker, Git, GitHub Actions
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/saurabhp75)
+- [Twitter](https://x.com/saurabhp75)
+
