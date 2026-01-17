@@ -12,5 +12,7 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saurabhp75) 
 
+  ![Metrics](https://raw.githubusercontent.com/saurabhp75/saurabhp75/main/metrics.svg)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
