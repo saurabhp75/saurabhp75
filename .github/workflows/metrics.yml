@@ -20,6 +20,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Add plugin configurations below this line
           plugin_isocalendar: yes
-          plugin_lines: yes
-          plugin_languages: yes
-          plugin_habits: yes
