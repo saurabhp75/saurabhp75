@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Runs every day at 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 */3 * *"
   # Allows manual triggering
   workflow_dispatch:
   # Runs on every push to the default branch
