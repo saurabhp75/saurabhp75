@@ -21,7 +21,6 @@ jobs:
           # Add plugin configurations below this line
           plugin_isocalendar: yes          # 3D-style commit calendar[citation:2]
           plugin_isocalendar_duration: full-year # Shows last 6 months
-          plugin_languages: yes            # Top programming languages[citation:2][citation:3]
           plugin_lines: yes                # Lines of code added/removed[citation:2]
           plugin_stars: yes                # Recently starred repositories[citation:2]
           plugin_introduction: yes         # Personal intro with stats[citation:2]
